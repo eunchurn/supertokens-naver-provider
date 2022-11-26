@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/eunchurn/supertokens-naver-provider/compare/v1.0.4...v1.0.5) (2022-11-26)
+
+
+### Bug Fixes
+
+* **npmignore:** add ([a326c9a](https://github.com/eunchurn/supertokens-naver-provider/commit/a326c9a0d60b6779c4deee8d4c49ece83e6b14fe))
+
 ### [1.0.4](https://github.com/eunchurn/supertokens-naver-provider/compare/v1.0.3...v1.0.4) (2022-11-26)
 
 
