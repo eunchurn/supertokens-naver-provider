@@ -1,6 +1,6 @@
 # supertokens-naver-provider
 
-![npm](https://img.shields.io/npm/dw/supertokens-naver-provider) [![npm version](https://badge.fury.io/js/supertokens-naver-provider.svg)](https://badge.fury.io/js/supertokens-naver-provider) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Publish Package to npmjs](https://github.com/eunchurn/supertokens-naver-provder/actions/workflows/publish.yml/badge.svg)](https://github.com/eunchurn/supertokens-naver-provder/actions/workflows/publish.yml) ![npm](https://img.shields.io/npm/dw/supertokens-naver-provider) [![npm version](https://badge.fury.io/js/supertokens-naver-provider.svg)](https://badge.fury.io/js/supertokens-naver-provider) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Naver providers for SuperTokens
 
