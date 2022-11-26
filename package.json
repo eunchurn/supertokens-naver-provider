@@ -1,13 +1,14 @@
 {
   "name": "supertokens-naver-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Naver provider for SuperTokens",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "watch": "tsc --watch",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "release": "standard-version"
   },
   "keywords": [
     "naver",
@@ -33,6 +34,7 @@
     "cross-env": "^7.0.3",
     "dotenv-cli": "^6.0.0",
     "jest": "^29.3.1",
+    "standard-version": "^9.5.0",
     "ts-jest": "^29.0.3",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
