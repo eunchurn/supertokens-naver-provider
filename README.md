@@ -1,6 +1,6 @@
 # supertokens-naver-provider
 
-[![Publish Package to npmjs](https://github.com/eunchurn/supertokens-naver-provider/actions/workflows/publish.yml/badge.svg)](https://github.com/eunchurn/supertokens-naver-provider/actions/workflows/publish.yml) ![npm](https://img.shields.io/npm/dw/supertokens-naver-provider) [![npm version](https://badge.fury.io/js/supertokens-naver-provider.svg)](https://badge.fury.io/js/supertokens-naver-provider) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Publish Package to npmjs](https://github.com/eunchurn/supertokens-naver-provider/actions/workflows/publish.yml/badge.svg)](https://github.com/eunchurn/supertokens-naver-provider/actions/workflows/publish.yml) ![npm](https://img.shields.io/npm/dw/supertokens-naver-provider) [![npm version](https://badge.fury.io/js/supertokens-naver-provider.svg)](https://badge.fury.io/js/supertokens-naver-provider) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/supertokens-naver-provider?label=size) [![Depfu](https://badges.depfu.com/badges/bec792b89a90e3ef64d6733e18bd5671/count.svg)](https://depfu.com/github/eunchurn/supertokens-naver-provider?project_id=37164) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Naver providers for SuperTokens
 
