@@ -2,13 +2,13 @@
 
 ![npm](https://img.shields.io/npm/dw/@eunchurn/supertokens-naver-provider) [![npm version](https://badge.fury.io/js/@eunchurn/supertokens-naver-provider.svg)](https://badge.fury.io/js/@eunchurn/supertokens-naver-provider) [![GitHub version](https://badge.fury.io/gh/eunchurn%2Fpackages.svg)](https://badge.fury.io/gh/eunchurn%2Fpackages) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Naver and Kakao providers for SuperTokens
+Naver providers for SuperTokens
 
-[SuperTokens](https://supertokens.com)애서 간편 로그인의 Naver와 Kakao의 Custom provider를 제공합니다.
+[SuperTokens](https://supertokens.com)애서 간편 로그인의 Naver Custom provider를 제공합니다.
 
 ## Usage
 
-### Express Backend: Naver and Kakao SignIn and SignUp
+### Express Backend: Naver SignIn and SignUp
 
 ```typescript
 import supertokens from "supertokens-node";
