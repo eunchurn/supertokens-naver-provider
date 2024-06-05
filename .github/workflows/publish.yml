@@ -52,6 +52,6 @@ jobs:
       run: ${{ steps.detect-package-manager.outputs.manager }} typecheck
     - name: TypeScript build
       run: ${{ steps.detect-package-manager.outputs.runner }} build
-    - run: npm publish
+    - run: npm publish --access=public
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
