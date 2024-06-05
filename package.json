@@ -1,6 +1,6 @@
 {
   "name": "supertokens-naver-provider",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Naver provider for SuperTokens",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -27,24 +27,24 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@eunchurn/eslint-config": "^0.1.11",
-    "@eunchurn/prettier-config": "^0.0.4",
+    "@eunchurn/eslint-config": "^0.1.13",
+    "@eunchurn/prettier-config": "^0.0.6",
     "@types/jest": "^29.5.12",
-    "@types/module-alias": "^2.0.1",
-    "@types/node": "^18.11.13",
+    "@types/module-alias": "^2.0.4",
+    "@types/node": "^20.14.1",
     "cross-env": "^7.0.3",
-    "dotenv-cli": "^7.0.0",
-    "jest": "^29.3.1",
-    "rimraf": "^5.0.0",
+    "dotenv-cli": "^7.4.2",
+    "jest": "^29.7.0",
+    "rimraf": "^5.0.7",
     "standard-version": "^9.5.0",
     "ts-jest": "^29.1.4",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^4.9.4"
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "axios": "^1.7.2",
-    "supertokens-node": "^12.1.2"
+    "supertokens-node": "12.1.2"
   },
   "peerDependencies": {
     "axios": "^1.2.0",

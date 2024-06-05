@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/eunchurn/supertokens-naver-provider/compare/v1.0.7...v1.0.8) (2024-06-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency supertokens-node to v12.1.7 ([#57](https://github.com/eunchurn/supertokens-naver-provider/issues/57)) ([51260fe](https://github.com/eunchurn/supertokens-naver-provider/commit/51260fe2cd911241553b8f43ff669f717fb05b24))
+
 ### [1.0.7](https://github.com/eunchurn/supertokens-naver-provider/compare/v1.0.6...v1.0.7) (2022-11-26)
 
 ### [1.0.6](https://github.com/eunchurn/supertokens-naver-provider/compare/v1.0.5...v1.0.6) (2022-11-26)
